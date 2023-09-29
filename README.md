@@ -226,7 +226,7 @@ URL: This application is only available locally at this point. Hosting for the b
 ``` 
 
 ## GET /categories/<int:id>/questions
-*Gets questions by category's id
+* Gets questions by category's id
 
 ```bash 
 {
